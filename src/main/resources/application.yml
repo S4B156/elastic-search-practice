@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: elastic-search-practice
+  elasticsearch:
+    uris: http://localhost:9200
+#    username: elastic
+#    password: 2vM=j-_1NOD287bQXJBo
