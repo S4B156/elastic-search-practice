@@ -24,7 +24,6 @@ This project was created for educational purposes to learn **ElasticSearch** :))
 
 ---
 
-## Русский
 **ElasticSearch в приложении для поиска потерянных вещей**  
 Проект практического использования **ElasticSearch**.
 
